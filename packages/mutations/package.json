@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/mutations",
+  "version": "0.0.1",
+  "description": "Tansmith Mutations — advanced mutation patterns and optimistic helpers.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

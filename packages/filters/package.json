@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/filters",
+  "version": "0.0.1",
+  "description": "Tansmith Filters — reusable filter actions, cursor reset logic, and pagination helpers for TanStack domain stores.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/router",
+  "version": "0.0.1",
+  "description": "Tansmith Router — automatic URL persistence and search param sync for TanStack stores.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

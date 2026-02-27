@@ -1,0 +1,16 @@
+{
+  "name": "tansmith-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check",
+    "publish:all": "turbo run build && changeset publish"
+  },
+  "license": "MIT"
+}

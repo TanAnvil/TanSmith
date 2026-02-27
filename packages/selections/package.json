@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/selections",
+  "version": "0.0.1",
+  "description": "Tansmith Selections — reusable selection state, lazy loading, and entity resolution for TanStack domain stores.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

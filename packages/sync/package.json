@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/sync",
+  "version": "0.0.1",
+  "description": "Tansmith Sync — automatic @tanstack/react-query → store synchronization.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

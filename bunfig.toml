@@ -1,0 +1,3 @@
+[install]
+# Makes Bun even faster in WSL
+lockfile = true

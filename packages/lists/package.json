@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/lists",
+  "version": "0.0.1",
+  "description": "Tansmith Lists — reusable list actions(upsert, remove, reset, select) for TanStack domain stores.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

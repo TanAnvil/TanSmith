@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/utils",
+  "version": "0.0.1",
+  "description": "Tansmith Utils — shared utilities, types, and helpers used across all Tansmith plugins and core.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

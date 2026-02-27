@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/presets",
+  "version": "0.0.1",
+  "description": "Tansmith Presets — ready-made store configurations for common domains (users, tickets, etc.).",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/optimistic",
+  "version": "0.0.1",
+  "description": "Tansmith Optimistic auto-mutation helpers with rollback, toasts, and optimistic updates.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@tansmith/core",
+  "version": "0.0.1",
+  "description": "Tansmith Core — createAppStore factory, types, and all base factories (filters, lists, selections, sync). Built on @tanstack/react-store + Immer.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

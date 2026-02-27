@@ -1,0 +1,9 @@
+{
+  "name": "tansmith",
+  "version": "0.0.1",
+  "description": "Tansmith — Forge consistent, type-safe TanStack domain stores with plugins. Zero-boilerplate CRUD for admin dashboards.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
